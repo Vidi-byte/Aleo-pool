@@ -39,3 +39,6 @@ cargo run --release -- -a aleo1your_address_here -p pool.hamp.app:4444
 ![Screenshot_1](https://user-images.githubusercontent.com/110123270/206908893-3788e965-c3c5-40c5-9f60-eb823a3f1639.png)
 ## If you see something like this, then you have successfully joined the pool. 
 
+## Link to the checker where you can check your rewards (may appear in 1-3 days) 
+### https://hamp.app/
+
